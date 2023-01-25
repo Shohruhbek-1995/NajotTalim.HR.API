@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NajotTalim.HR.API", "NajotTalim.HR.API.csproj", "{9463C012-C527-45A7-9805-109F7A135C88}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NajotTalim.HR.DataAccess", "..\NajotTalim.HR.DataAccess\NajotTalim.HR.DataAccess.csproj", "{7D18AC3E-36DA-41D6-B038-FCC52844E02D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9463C012-C527-45A7-9805-109F7A135C88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9463C012-C527-45A7-9805-109F7A135C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9463C012-C527-45A7-9805-109F7A135C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9463C012-C527-45A7-9805-109F7A135C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D18AC3E-36DA-41D6-B038-FCC52844E02D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D18AC3E-36DA-41D6-B038-FCC52844E02D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D18AC3E-36DA-41D6-B038-FCC52844E02D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D18AC3E-36DA-41D6-B038-FCC52844E02D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E70D93B-15DB-419A-BDD9-9AA37EAA8075}
+	EndGlobalSection
+EndGlobal
