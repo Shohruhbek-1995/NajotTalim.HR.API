@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj": {}
+    "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj": {}
   },
   "projects": {
-    "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj": {
+    "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj",
+        "projectUniqueName": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj",
         "projectName": "NajotTalim.HR.API",
-        "projectPath": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj",
+        "projectPath": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj",
         "packagesPath": "C:\\Users\\Shohruxbek\\.nuget\\packages\\",
-        "outputPath": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.API\\obj\\",
+        "outputPath": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shohruxbek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj": {
-                "projectPath": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj"
+              "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj": {
+                "projectPath": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj"
               }
             }
           }
@@ -86,14 +86,14 @@
         }
       }
     },
-    "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj": {
+    "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj",
+        "projectUniqueName": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj",
         "projectName": "NajotTalim.HR.DataAccess",
-        "projectPath": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj",
+        "projectPath": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.DataAccess\\NajotTalim.HR.DataAccess.csproj",
         "packagesPath": "C:\\Users\\Shohruxbek\\.nuget\\packages\\",
-        "outputPath": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.DataAccess\\obj\\",
+        "outputPath": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shohruxbek\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "задача-NajotTalim.HR",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}

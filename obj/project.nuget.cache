@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q5G8hxsLoKmdTDV9Gt8Aca8XHsq37w/Z9E6fCDOAmokcBK12gFsTDMuJ0p/n7fyABcXFzfNBF/oWXTuevnaiig==",
+  "dgSpecHash": "OJppa0IBvW2/Jijoqp85kdT2/CkU5m71YoJjsL2WnnKvK78P598UxD/9FCharTcKPwiY3hh/+SORhJwZpapcCQ==",
   "success": true,
-  "projectFilePath": "C:\\C# .Net darslari\\vazifalar\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj",
+  "projectFilePath": "C:\\C# .Net darslari\\Portfolio\\NajotTalim.HR.API\\NajotTalim.HR.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shohruxbek\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Shohruxbek\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
